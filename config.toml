@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "DebConf18"
 theme = "ananke"
+publishDir = "docs"
 
 [params]
 #description = "Hsinchu, Taiwan"
