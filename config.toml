@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "DebConf18"
+theme = "ananke"
+
+[params]
+#description = "Hsinchu, Taiwan"
+navigationlogo = "images/navigation_logo.svg"
+
+[menu]
+  [[menu.main]]
+  identifier = "home"
+  name       = "Home"
+  url        = "/"
+  weight     = 1
+
+  [[menu.main]]
+  identifier = "about"
+  name       = "About"
+  url        = "/about"
+  weight     = 0
