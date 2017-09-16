@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://medicalwei.github.io/debconf18-landing/"
 languageCode = "en-us"
 title = "DebConf18"
 theme = "ananke"
