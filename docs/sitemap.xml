@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://medicalwei.github.io/debconf18-landing/about/</loc>
-    <lastmod>2017-08-27T18:04:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://medicalwei.github.io/debconf18-landing/</loc>
-    <lastmod>2017-08-27T18:04:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://medicalwei.github.io/debconf18-landing/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://medicalwei.github.io/debconf18-landing/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://medicalwei.github.io/debconf18-landing/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://medicalwei.github.io/debconf18-landing/zh-hant-tw/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

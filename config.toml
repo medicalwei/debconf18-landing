@@ -4,8 +4,9 @@ title = "DebConf18"
 theme = "ananke"
 publishDir = "docs"
 
+defaultContentLanguage = "en"
+
 [params]
-#description = "Hsinchu, Taiwan"
 navigationlogo = "images/navigation_logo.svg"
 
 [menu]
@@ -15,8 +16,43 @@ navigationlogo = "images/navigation_logo.svg"
   url        = "/"
   weight     = 1
 
-  [[menu.main]]
-  identifier = "about"
-  name       = "About"
-  url        = "/about"
-  weight     = 0
+
+[languages]
+  [languages.en]
+  weight = 1
+  languageName = "English"
+
+    [[languages.en.menu.main]]
+    url    = "/"
+    name   = "Home"
+    weight = 1
+
+    [[languages.en.menu.main]]
+    name   = "About"
+    url    = "/about"
+    weight = 2
+
+    [[languages.en.menu.main]]
+    name   = "中文"
+    title  = "切換至中文頁面"
+    url    = "/zh-hant-tw/"
+    weight = 100
+
+  [languages.zh-hant-tw]
+  description = "新竹交通大學"
+  weight = 2
+
+    [[languages.zh-hant-tw.menu.main]]
+    url    = "/zh-hant-tw/"
+    name   = "首頁"
+    weight = 1
+
+    [[languages.zh-hant-tw.menu.main]]
+    name   = "關於"
+    url    = "/zh-hant-tw/about"
+    weight = 2
+
+    [[languages.zh-hant-tw.menu.main]]
+    name   = "English"
+    url    = "/"
+    weight = 100

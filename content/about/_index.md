@@ -17,7 +17,7 @@ The Venue
 
 National Chiao Tung University is situated near so-called Silicon Valley in
 Asia: Hsinchu Science Park.  The university provides us comfortable while
-spacious environment for plenary discussions and presentations, as well as
+various environment for plenary discussions and presentations, as well as
 informal workgroup meetings.  Accommodation for participants is available
 in the campus.
 
