@@ -39,6 +39,7 @@ navigationlogo = "images/navigation_logo.svg"
     weight = 100
 
   [languages.zh-hant-tw]
+  languageCode = "zh-hant-tw"
   description = "新竹交通大學"
   weight = 2
 
