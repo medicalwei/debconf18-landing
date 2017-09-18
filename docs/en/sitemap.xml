@@ -5,6 +5,16 @@
   <url>
     <loc>https://medicalwei.github.io/debconf18-landing/about/</loc>
     <lastmod>2017-08-27T18:04:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://medicalwei.github.io/debconf18-landing/zh-hant-tw/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medicalwei.github.io/debconf18-landing/about/"
+                />
   </url>
   
   <url>
