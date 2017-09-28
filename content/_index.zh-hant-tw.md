@@ -4,7 +4,7 @@ featured_image: "images/northgate.jpg"
 title: "DebConf 來台灣"
 description: "第十九屆國際 Debian 開發者大會"
 ---
-2018 年的 DebConf 將在台灣的國立新竹交通大學舉辦。
+2018 年的 DebConf 將在台灣的國立交通大學舉辦。
 
 The Debian Project 是國際知名的大型自由軟體計畫，而 DebConf 是該計畫的年度開發
 者大會。
