@@ -4,8 +4,7 @@ featured_image: "images/northgate.jpg"
 title: "DebConf in Taiwan!"
 description: "The 19th Debian Conference"
 ---
-In 2018, DebConf will take place in Hsinchu, Taiwan in late July and early
-August.
+DebConf18 will take place in Hsinchu, Taiwan in late July and early August.
 
 DebConf is the annual developers' conference of the Debian project, one of the
 largest Free Software projects worldwide.
