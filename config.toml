@@ -31,7 +31,12 @@ navigationlogo = "images/navigation_logo.svg"
     name   = "About"
     url    = "/about"
     weight = 2
-
+    
+    [[languages.en.menu.main]]
+    name   = "Sponsors"
+    url    = "/sponsors"
+    weight = 3
+    
     [[languages.en.menu.main]]
     name   = "中文"
     title  = "切換至中文頁面"
@@ -51,6 +56,11 @@ navigationlogo = "images/navigation_logo.svg"
     name   = "關於"
     url    = "/zh-hant-tw/about"
     weight = 2
+    
+    [[languages.zh-hant-tw.menu.main]]
+    name   = "Sponsors"
+    url    = "/zh-hant-tw/sponsors"
+    weight = 3
 
     [[languages.zh-hant-tw.menu.main]]
     name   = "English"
