@@ -9,8 +9,9 @@ in improving Debian. Previous Debian conferences have featured speakers and
 attendees from all around the world.  DebConf17 was held in August 2017 in
 Montreal, Canada and was attended by 400 participants from 50 countries.
 
-DebConf18 will be held from from July 29 to August 5, preceded by DebCamp, July
-21 to July 27, and Open Day, July 28.
+DebConf18 will be located in Hsinchu, Taiwan, and is the first DebConf in Asia.
+It will be held from from July 29 to August 5, preceded by DebCamp, July 21 to
+July 27, and Open Day, July 28.
 
 The Venue
 ---------
