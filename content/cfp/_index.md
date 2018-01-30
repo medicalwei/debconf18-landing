@@ -1,6 +1,10 @@
-# Call for Participation
+---
+name: Call for Proposals
+---
 
-The DebConf Content team would like to call for participation in the DebConf18
+# Call for Proposals
+
+The DebConf Content team would like to call for proposals in the DebConf18
 conference, to be held in Hsinchu, Taiwan, from July 29. to August 5., 2018.
 
 You can find this Call for Proposals, in its latest form,
