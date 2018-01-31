@@ -38,6 +38,11 @@ navigationlogo = "images/navigation_logo.svg"
     weight = 3
     
     [[languages.en.menu.main]]
+    name   = "CfP"
+    url    = "/cfp"
+    weight = 4
+    
+    [[languages.en.menu.main]]
     name   = "中文"
     title  = "切換至中文頁面"
     url    = "/zh-hant-tw/"
@@ -61,6 +66,11 @@ navigationlogo = "images/navigation_logo.svg"
     name   = "Sponsors"
     url    = "/zh-hant-tw/sponsors"
     weight = 3
+
+    [[languages.zh-hant-tw.menu.main]]
+    name   = "CfP"
+    url    = "/zh-hant-tw/cfp"
+    weight = 4
 
     [[languages.zh-hant-tw.menu.main]]
     name   = "English"
